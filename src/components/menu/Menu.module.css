@@ -1,0 +1,13 @@
+.menu_container {
+    padding: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.menu_container a {
+    text-decoration: none;
+    text-transform: uppercase;
+}

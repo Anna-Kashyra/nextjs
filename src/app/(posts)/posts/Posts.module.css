@@ -1,0 +1,21 @@
+.posts_container {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.post_container {
+    width: 24%;
+    list-style: none;
+}
+
+.post_container a {
+    text-decoration: none;
+    color: black;
+}
+
+.text {
+    text-align: left;
+}

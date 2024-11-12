@@ -1,0 +1,21 @@
+.comments_container {
+    padding: 0 30px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+}
+
+.comment_container {
+    width: 24%;
+    height: 30vh;
+    padding: 25px;
+    border: 1px solid lightgray;
+    margin: 10px;
+    list-style: none;
+}
+
+.comment_container a {
+    text-decoration: none;
+    color: black;
+}

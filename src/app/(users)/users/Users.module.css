@@ -1,0 +1,18 @@
+.users_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.user_container {
+    width: 40%;
+    font-size: 20px;
+}
+
+.user_container a {
+    text-decoration: none;
+    color: black;
+}
+
